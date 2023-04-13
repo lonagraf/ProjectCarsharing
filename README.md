@@ -8,3 +8,4 @@
 # Figma
 https://www.figma.com/file/xyIoL2lnClfW4sWemdYGvY/Carsharing?node-id=6%3A2&t=C7aGYLyIHP3sVZJG-1
 ![image](https://user-images.githubusercontent.com/122952983/231663274-112b60fc-42d3-42ea-b2f9-fe16f7d4fb94.png)
+# Описание выбранных инструментов разработки
